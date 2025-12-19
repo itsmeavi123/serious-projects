@@ -1,0 +1,26 @@
+p{
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 0;
+   
+    
+  }
+  .number{
+    font-size: 30px;
+    margin-bottom: 5px;
+   
+  }
+  .currency{
+    font-size: 16px;
+    color: grey;
+  }
+  .data{
+    color: green;
+    margin-bottom: 7px;
+  }
+  .time{
+    color: grey;
+  }
+  .down{
+    color: red;
+  }

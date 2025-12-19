@@ -1,0 +1,27 @@
+p{
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+
+
+  }
+  .web{
+    font-weight: bold;
+    margin-bottom: 6px;
+    
+
+  }
+  .time{
+    color: grey;
+    font-weight: normal;
+  }
+  .description{
+    width: 570px;
+    line-height: 25px;
+    margin-bottom: 20px;
+  
+  }
+  .blue{
+    color: blue;
+  }
