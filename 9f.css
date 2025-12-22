@@ -1,0 +1,51 @@
+*{padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+
+.fb-photo{
+  height: 100px;
+  width: 100px;
+
+  
+  
+}
+.name{
+  font-weight: bold;
+  font-family: arial;
+  padding-left: 3px;
+  padding-bottom: 2px;
+  
+
+}
+.mutal{
+  color: gray;
+  font-family: arial;
+  font-size: 14px;
+  padding-bottom: 5px;
+}
+.add-button{
+  color: rgba(255, 255, 255, 0.818);
+  background-color: blue;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 4px;
+  font-family: arial;
+  width: 80px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+
+}
+.facebook{
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  width: 120px;
+  margin-left: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+

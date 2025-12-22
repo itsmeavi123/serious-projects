@@ -1,0 +1,20 @@
+.form{
+  border-width: 1px;
+  border-style: solid;
+  width: 350px;
+  background: black;
+
+}
+.install{
+  color: white;
+  padding-left: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: arial;
+}
+.description{
+  color: gray;
+  font-family: arial;
+  font-size: 15px;
+  padding-left: 15px;
+}
