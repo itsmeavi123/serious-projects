@@ -25,6 +25,8 @@
   font-family: arial;
   font-size: 14px;
   padding-bottom: 5px;
+  display: inline-block;
+  vertical-align: middle;
 }
 .add-button{
   color: rgba(255, 255, 255, 0.818);
@@ -41,11 +43,19 @@
 }
 .facebook{
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
-  width: 120px;
+  width: 150px;
   margin-left: 10px;
   padding-left: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
   display: inline-block;
+}
+.known{
+  width: 20px;
+  border-radius: 30px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 4px;
+  
 }
 
